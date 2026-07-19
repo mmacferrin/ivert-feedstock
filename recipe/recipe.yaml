@@ -2,9 +2,9 @@ schema_version: 1
 
 context:
   python_min: "3.12"
-  version: "0.6.3"
+  version: "0.6.4"
   build_number: 0
-  sha256: "d8210d77dcf0b5faad0b5b715a9240c7477cf0dd7341b5d65ea16a5ad593aebb"
+  sha256: "8ddd8922e1efbd45c8f659a17d433d65df68474ee5aed1c7de498bdd28ba566d"
 
 package:
   name: ivert
